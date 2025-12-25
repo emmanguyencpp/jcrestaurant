@@ -305,6 +305,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
     
+    
     function showFormMessage(message, type) {
         // Remove any existing message
         const existingMessage = document.querySelector('.form-message');
